@@ -3,7 +3,7 @@
 Code a website anywhere! Supports HTML , CSS & JS to make a fully responsive website! <br>
 <img src="./public/screenshot.png"></img>
 
-### Go To [this link](http://codeonline.igrohan.repl.co/) to test it out!
+### Go To [this link](https://codeonline.igrohan.repl.co/) to test it out!
 
 # Try It On Your Machine/Customize it
 - Open your command prompt / powershell
